@@ -1,0 +1,4 @@
+name: SimpleSubclaimsUUID
+main: com.beatlynx.simplesubclaimsUUID.SimpleSubclaimsUUID
+version: 0.1.0 for FactionsUUID
+commands:
