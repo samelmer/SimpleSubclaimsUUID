@@ -1,4 +1,4 @@
-[SimpleSubclaimsUUID v0.1.0]
+[SimpleSubclaimsUUID v0.1.0] - for FactionsUUID and Spigot 1.8, 1.12
 
 Semantic Versioning: vMAJOR.MINOR.PATCH
 
