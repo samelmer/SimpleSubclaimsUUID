@@ -1,4 +1,4 @@
-[SimpleSubclaimsUUID v0.1.0] - for FactionsUUID and Spigot 1.8, 1.11, and 1.12
+[SimpleSubclaimsUUID v0.1.0] - WORKS WITH FACTIONSUUID AND SPIGOT 1.8, 1.9, 1.10, 1.11, AND 1.12!
 
 Semantic Versioning: vMAJOR.MINOR.PATCH
 
@@ -7,8 +7,6 @@ MAJOR: Backwards incompatible API changes
 MINOR: Backwards-compatible functionality
 
 PATCH: Backwards-compatible bug fixes
-
-WORKS WITH FACTIONSUUID AND SPIGOT 1.8, 1.11, AND 1.12!
 
 This plugin allows faction members to create private chests, a.k.a. Subclaims, within their factions. It requires drtshock's FactionsUUID, which can be found here on Spigot: https://www.spigotmc.org/resources/factionsuuid.1035/
 
